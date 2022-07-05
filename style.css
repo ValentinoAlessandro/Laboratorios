@@ -1,4 +1,30 @@
+.nombre{
+    color:black;
+    background-color:wheat;
+    text-align:center;
+}
 .info{
-    color:red;
-    background-color:green;
+    color:gray;
+    background-color: wheat;
+    text-align:center;
+}
+#foto{
+    text-align: left;
+}
+h2.border{
+    width: 20%;
+    padding: 10px;
+    letter-spacing: 10px;
+    text-align: left;
+    margin-top: 15px;
+    border-style:solid;
+    border-color: black;
+    text-align: left
+}
+#link{
+    text-align: center;
+    width: 100%;
+    border-style: solid;
+    color: blue;
+    padding: 10px;
 }
